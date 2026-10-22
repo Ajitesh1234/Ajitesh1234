@@ -32,16 +32,7 @@ isn't loading (DNS, server, ISP blocking, or slow connection).
 ## 📊 GitHub analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ajitesh1234&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitesh1234&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ajitesh1234&theme=dark&hide_border=true" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajitesh1234&theme=github-compact&hide_border=true" alt="Contribution graph" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 ## 📫 Reach me
