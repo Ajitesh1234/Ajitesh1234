@@ -45,4 +45,4 @@ isn't loading (DNS, server, ISP blocking, or slow connection).
 </p>
 
 ## 📫 Reach me
-[email] · [LinkedIn]
+[ajitesh2004@gmail.com] 
