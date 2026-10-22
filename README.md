@@ -45,4 +45,4 @@ isn't loading (DNS, server, ISP blocking, or slow connection).
 </p>
 
 ## 📫 Reach me
-[ajitesh2004@gmail.com] 
+  <a href="mailto:ajitesh2004@gmail.com">ajitesh2004@gmail.com</a>
